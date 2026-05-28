@@ -64,6 +64,22 @@ This ensured the prototype remained aligned with:
 
 ---
 
+# Product Management Thinking
+
+Product management starts with anchoring on business value by defining the end-to-end value stream, ensuring clarity on the outcomes the product must enable.
+
+It then shifts to understanding who the users are through personas, capturing their goals, contexts, and pain points to ground decisions in real user needs.
+
+From there, the focus moves to what needs to be built, translating value streams into capabilities and features that represent meaningful business and user functionality.
+
+Next, PM thinking defines how value is delivered in practice through use cases and user stories, turning capabilities into concrete, testable behaviors that guide agile delivery.
+
+To ensure experience quality, PMs map user journeys and screen flows, validating that the end-to-end interaction is intuitive, seamless, and aligned to user intent across channels.
+
+Overall, strong product thinking ensures full traceability from business outcome to user experience to system design, maintaining alignment across strategy, execution, and delivery.
+
+---
+
 # Key Design Principles
 
 ## Digital-First Experience
